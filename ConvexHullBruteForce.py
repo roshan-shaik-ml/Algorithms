@@ -73,7 +73,9 @@ if __name__ == '__main__':
 
     # points = [(random.randint(0, 10), random.randint(0, 10)) for i in range(10)] # taking random points
     points = [(0, 8), (1, 3), (3, 9), (5, 4), (6, 10), (8, 1), (8, 9), (9, 0), (10, 1), (10, 3)]
+    
     coordinates = points.copy()
+    
     hull = findConvexHull(points)
     print("hull: ", hull)
-    plotGraph(coordinates)
+    plotGraph(coordinates) # to visualise the coordinates
