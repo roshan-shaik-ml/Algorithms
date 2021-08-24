@@ -52,7 +52,6 @@ class Graph:
         print("Path: ", self.path)
         print("Cost: ", self.cost)
 
-
 if __name__ == "__main__":
 
     vertices = 8
