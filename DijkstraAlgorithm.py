@@ -66,4 +66,4 @@ if __name__ == "__main__":
                 7 : [1700, 0, 0, 0, 0, 0, 0, 0, 0],
             }
     graph = Graph(vertices, adjList)
-    graph.dijkstra(0)
+    graph.dijkstra(0) # source
