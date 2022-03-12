@@ -40,5 +40,3 @@ class Solution:
         
         freq = Counter(letters)
         return self.solve(words, freq, score, 0)
-        
-        
