@@ -1,7 +1,7 @@
 /*
     Author: Shaik Faizan Roshan Ali
     Date: 29th May 2022
-    Description: This is the implementation of Union & Find operation on disjoint sets.
+    Description: This is the implementation of Union & Find operations on disjoint sets.
                  (Without path compression)
 **/
 
