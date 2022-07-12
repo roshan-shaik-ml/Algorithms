@@ -1,8 +1,7 @@
 /*
     Author: Shaik Faizan Roshan Ali
     Date: 29th May 2022
-    Description: This is the implementation of Union & Find operations on disjoint sets.
-                 (Without path compression)
+    Description: This is the implementation of Union & Find operations on disjoint sets.  
 **/
 
 import java.util.Vector;
